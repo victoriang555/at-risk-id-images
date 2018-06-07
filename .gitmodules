@@ -1,0 +1,3 @@
+[submodule "notebooks_and_data/simple_image_annotator"]
+	path = notebooks_and_data/simple_image_annotator
+	url = https://github.com/sgp715/simple_image_annotator.git
